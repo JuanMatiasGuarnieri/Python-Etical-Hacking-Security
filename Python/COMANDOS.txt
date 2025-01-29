@@ -1,0 +1,7 @@
+Comandos del Shell --Author-- Kobrax
+Descargar un archivo del PC infectado : download -nombreDelArchivo-
+Subir un archivo al PC infectado: upload -nombreDelArchivo-
+Tomar una Captura de Pantalla: screenshot
+Descargar Archivo de la web: get -url-
+Iniciar un Programa: start -nombreDelPrograma-
+Verficiar Perfil de Admin: check

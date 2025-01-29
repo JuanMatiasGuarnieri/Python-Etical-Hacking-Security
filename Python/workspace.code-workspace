@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\JS y Jquery"
+		},
+		{
+			"path": "..\\Portfolio React JS + Tailwind CSS"
+		},
+		{
+			"path": "C:\\Users\\Kobrax\\Documents\\GitHub\\portfolio-reactJS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS y Jquery"
+	}
+}
